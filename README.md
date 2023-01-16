@@ -3,7 +3,7 @@
 </p>
 
 
-## Projeto simples feito durante o evento "Next Level Week" da [Rocket Seat](https://www.rocketseat.com.br/)
+### Projeto simples feito durante o evento "Next Level Week" da [Rocket Seat](https://www.rocketseat.com.br/)
 
 ## 📝 Resumo
 A ideia do projeto é fazer com que pessoas possam se encontrar com as outras para formar grupos em jogos.
