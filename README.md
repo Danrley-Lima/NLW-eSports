@@ -2,6 +2,8 @@
   <img src="./web/src/assets/Logo.svg" alt="Logo" width="350px">
 </p>
 
+<br>
+
 Projeto simples feito durante o evento "Next Level Week" da [Rocket Seat](https://www.rocketseat.com.br/)
 
 ## 📝 Resumo
