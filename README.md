@@ -15,6 +15,7 @@ Cada pessoa se inscreve preenchendo um formulário com informações relevantes 
 * Faça o clone do repositório.
 * Renomeie o arquivo da pasta server ".env.example" para ".env". 
 * Rode ``npm install`` no terminal da pasta server e web.
+* Rode ``npx prisma`` generate na pasta server.
 * Inicie os servidores rodando também o comando ``npm run dev`` em ambas as pastas novamente.
 * Abra o endereço http://localhost:5173/ em algum navegador.
 
